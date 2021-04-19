@@ -1,4 +1,7 @@
 package com.tts;
+import java.lang.*;
+import java.util.*;
+import java.math.*;
 
 public class Calculating {
 
@@ -68,4 +71,5 @@ public class Calculating {
     public int division(int num1, int num2){
         return num1 / num2;
     }
+
 }
